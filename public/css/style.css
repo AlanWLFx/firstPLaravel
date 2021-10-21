@@ -1,0 +1,209 @@
+.plans-container--slider{
+    display: flex;
+    height: 316px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+}
+
+.plans-container--card .backgroundimg{
+    text-align: center;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/pc-gamer.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg1{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/workstation.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg2{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/sillas-gamer.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg3{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/monitores-gamer.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg4{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/accesorios-para-computadora.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg5{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/computadoras-armadas.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg6{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/streaming.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg7{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/combos-gamer.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg8{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/escritorios-gamer.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.plans-container--card .backgroundimg9{
+    text-align: center;
+    font-size: .875rem;
+    position: relative;
+    scroll-snap-align: center;
+    width: 70%;
+    min-width: 190px;
+    max-width: 300px;
+    height: 250px;
+    margin: 50px 10px 0;
+    padding: 0 15px;
+    background-image: url('../images/cards/enfriamiento.png');
+    background-size: cover;
+    background-color: #121214;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(89, 73, 30, 0.16);
+}
+
+.cards-bg{
+    background-color: #1d1e22;
+}
+
+.scrolling-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: .5rem;
+}
+
+.product-scroll{
+    flex: 0 0 auto;
+    margin-right: 50px;
+    width: 285px;
+    height: 400;
+    background-color: #1D1E22;
+    border-radius: .5rem;
+}
