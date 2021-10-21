@@ -207,3 +207,49 @@
     background-color: #1D1E22;
     border-radius: .5rem;
 }
+
+.product-scroll1{
+    flex: 0 0 auto;
+    margin-left: 12px;
+    margin-right: 20px;
+    width: 285px;
+    height: 400;
+    background-color: #1D1E22;
+    border-radius: .5rem;
+}
+
+.crimson-bg {
+    background-color: #1d1e22;
+}
+
+.custom-pc-commerce {
+    height: 380px;
+}
+
+.granite-bg {
+    background-color: #19191b;
+}
+
+.news-banner {
+    background-image: url('../images/home/abstract-news.svg');
+    background-position: right bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.sg-input {
+    background: rgba(216,216,216,.11);
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    outline: transparent;
+    border: 1px solid transparent;
+    color: #fff;
+}
+
+.prim-button {
+    background-color: #0078f2;
+    border-radius: 2px;
+    color: #fff;
+    border: 1px solid #0078f2;
+    padding: 12px 32px;
+}

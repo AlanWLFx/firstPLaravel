@@ -243,5 +243,90 @@
             </div>
         </div>
     </section>
+    <section class="pv5-ns pv3 mt4">
+        <div class="mw8 center ph3">
+            <div>
+                <div class="w-100 br3 crimson-bg custom-pc-commerce ph3 ph0-ns pv0-ns pt3">
+                    <div id="heading">
+                        pruebas
+                    </div>
+                    <div>
+                        <h2 id="heading">
+                            prueba
+                        </h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="pv5">
+        <div class="container-fluid ph3">
+            <div class="flex flex-wrap justify-between items-center">
+                <div>
+                    <h2 id="heading">
+                        Productos Gamer indispensables para la cruzada
+                    </h2>
+                    <h3 id="heading">
+                        Popular entre los gamers
+                    </h3>
+                </div>
+            </div>
+            <div class="scrolling-wrapper br3 pv4">
+                <div class="product-scroll1 flex flex-auto ph3">
+                    <a class="no-underline white-60 flex flex-auto " href="">
+                        <img src="{{asset('images/popular/slot1.png')}}" alt="ComputadoraDelios 50i">
+                    </a>
+                </div>
+                <div class="product-scroll1 flex flex-auto ph3">
+                    <a class="no-underline white-60 flex flex-auto " href="">
+                        <img src="{{asset('images/popular/slot2.png')}}" alt="ComputadoraDelios 50i">
+                    </a>
+                </div>
+                <div class="product-scroll1 flex flex-auto ph3">
+                    <a class="no-underline white-60 flex flex-auto " href="">
+                        <img src="{{asset('images/popular/slot3.png')}}" alt="ComputadoraDelios 50i">
+                    </a>
+                </div>
+                <div class="product-scroll1 flex flex-auto ph3">
+                    <a class="no-underline white-60 flex flex-auto " href="">
+                        <img src="{{asset('images/popular/slot4.png')}}" alt="ComputadoraDelios 50i">
+                    </a>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <section class="join h-newsletter">
+        <div class="mw8 center ph3">
+            <div class="news-banner granite-bg pv5 ph4 br2">
+                <div class="w-50-ns w-100">
+                    <h2 class="f2 mv0 pv1">
+                        Suscríbete
+                    </h2>
+                    <p class="lh-copy white-70">
+                        Noticias, lanzamientos exclusivos, ofertas y muchos más detalles en nuestro newsletter
+                    </p>
+                </div>
+                <div>
+                    <form action="" method="POST" accept-charset="utf-8">
+                        <input class="inline-flex sg-input w-20-ns mv2 mv0-ns" type="text" name="name" placeholder="Tu nombre">
+                        <input class="inline-flex sg-input w-30-ns mv2 mv0-ns" type="email" name="email" placeholder="tumail@mail.com">
+                        <button class="inline-flex prim-button pointer" type="submit">
+                            Suscribirme
+                        </button>
+                    </form>
+                </div>
+                <div class="pv3 f6">
+                    Protegemos tus datos. revisa nuestro
+                    <a class="white b dim" href="https://spartangeek.com/privacidad">
+                        Aviso de privacidad
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="pv5">
+
+    </footer>
 </body>
 </html>
