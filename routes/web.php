@@ -20,3 +20,4 @@ Route::get('/', function () {
 Route::get('/Itienda', function () {
     return view('Itienda');
 });
+
